@@ -3,7 +3,7 @@ Arquivos do curso Machine Learning e Data Science com Python de A à Z
 
 ## Conteúdo:
 
-- [x] 1.Introdução
+- [x] 1. Introdução
 - [x] 2. --- Parte 1 - Classificação --- 
 - [x] 3. Pré-processamento com pandas e scikit-learn
 - [x] 4. Aprendizagem bayesiana
